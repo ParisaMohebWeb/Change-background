@@ -2,9 +2,7 @@
 
 **This is a simple project  to change the background with a click**
 
-![Image](https://github.com/user-attachments/assets/a8953f3b-dc62-4a10-a53f-d260d2eb4b7b)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![Image](https://github.com/user-attachments/assets/9459218b-18b1-4bc7-bfa7-8e40cb8c3d2d)
 
 - [Demo Project](address)
 
